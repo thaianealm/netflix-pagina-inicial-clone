@@ -1,0 +1,267 @@
+@media screen and (max-width: 1000px) {
+        .navbar{
+            width: 90%;
+        }
+
+        .navbar img{
+            width: 100px;
+        }
+
+        .idiomas-navbar{
+            margin-left: 30%;
+        }
+
+        .botao-entrar-navbar{
+            margin-left: 79%;
+        }
+
+        .main{
+            width: 100%;
+            height: 600px;
+        }
+
+        .main-child{
+            width: 100%;
+            margin-top: 50px;
+        }
+
+        .main-child h1{
+            font-size: 30px;
+        }
+
+        .main-child h2{
+            font-size: 20px;
+        }
+
+        .main-child h3{
+            font-size: 18px;
+        }
+
+        input{
+            width: 80%;
+        }
+
+        .button-cta{
+            margin-top: 5%;
+            padding: 15px;
+            width: 180px;
+        }
+
+        /*----- Section / container-1 -----*/
+       .container-1{
+          display: flex;
+          align-content: flex-start;
+          align-items: center;
+          text-align: center;
+          height: 560px;
+       }
+
+       .texto-1{
+        flex: 100%;
+        padding: 0;
+        }
+
+        .texto-1 h1{
+        font-size: 27px;
+        margin-bottom: 3%;
+        margin-top: 5%;
+        }
+    
+        .texto-1 h2{
+        font-size: 20px;
+        }
+
+        .imagem-1{
+        flex: 100%;
+        height: 350px;
+        }   
+
+        .imagem-1 img{
+        position: absolute;
+        margin-left: -62px;
+        margin-bottom: 1%;
+        z-index: 1;
+        width: 450px;
+        }
+    
+        .video-1{
+        position: relative;
+        top: 70px;
+        left: -1px;
+        width: 325px;
+        }
+
+        /*----- Section / container-2 -----*/
+        .container-2{
+        display: flex;
+        align-content: flex-start;
+        align-items: center;
+        text-align: center;
+        height: 500px;
+        }
+
+        .texto-2{
+            flex: 100%;
+            padding: 0;
+            
+        }
+
+        .texto-2 h1{
+            font-size: 27px;
+            margin: 5% 1% 3% 1%;
+        }
+        
+        .texto-2 h2{
+            font-size: 19px;
+        }
+    
+        .imagem-2{
+            flex: 100%;
+            height: 350px;
+            order: 2;
+        }
+        
+        /*----- container-3 -----*/
+        .container-3{
+            display: flex;
+            align-content: flex-start;
+            align-items: center;
+            text-align: center;
+            height: 560px;
+         }
+  
+         .texto-3{
+          flex: 100%;
+          padding: 0;
+          }
+  
+          .texto-3 h1{
+          font-size: 27px;
+          margin-bottom: 3%;
+          margin-top: 5%;
+          }
+      
+          .texto-3 h2{
+          font-size: 20px;
+          }
+  
+          .imagem-3{
+          flex: 100%;
+          height: 350px;
+          }   
+  
+          .imagem-3 img{
+          position: absolute;
+          margin-left: -80px;
+          margin-bottom: 1%;
+          z-index: 1;
+          width: 450px;
+          }
+      
+          .video-3{
+          position: relative;
+          top: 72px;
+          left: 2px;
+          width: 280px;
+          }
+
+        /*----- Section / container-2 -----*/
+        .container-4{
+            display: flex;
+            align-content: flex-start;
+            align-items: center;
+            text-align: center;
+            height: 600px;
+            }
+    
+        .texto-4{
+            flex: 100%;
+            padding: 0;               
+        }
+    
+        .texto-4 h1{
+            font-size: 27px;
+            margin: 5% 1% 3% 1%;
+        }
+            
+        .texto-4 h2{
+            font-size: 19px;
+        }
+        
+        .imagem-4{
+                flex: 100%;
+                height: 350px;
+                order: 2;
+        }
+
+        .imagem-4 img{
+            margin-top: 5%;
+        }
+
+        /*----- Rodapé | Footer -----*/
+        footer{
+            height: 500px;
+        }
+
+        .footer-duvidas{
+            text-align: left;
+            margin: 50px 20px 20px 50px;
+        }
+
+        .footer-pagina-inicial a{
+            margin: 3% 0 0 0;
+            padding: 5%;
+            font-size: 13px;
+        }
+
+        .coluna-1{
+            width: 100px;
+        }
+
+        .coluna-2{
+            width: 100px;
+        }
+        
+        .coluna-3{
+            width: 100px;
+        }
+        
+        .coluna-4{
+            width: 100px;
+        }
+
+        .idiomas-footer{
+            margin: 35px 0 0 50px;
+        }
+
+        .footer-p{
+            margin-left: 50px;
+        }
+}
+
+@media screen and (max-width: 705px) {
+            
+    /*Perguntas frequentes*/
+    .titulo{
+        font-size: 17px;
+        margin-top: 9%;
+    }
+
+    .question{
+        margin: 8px;
+        padding: 20px 20px 10px 30px;
+        width: 410px;
+        height: 32px;
+        font-size: 18px;
+    }
+
+}
+
+@media screen and  (max-width: 1000px){
+     /*Vamos lá 2*/
+     .button-cta-2{
+        margin-top: 5%;
+        padding: 15px;
+        width: 180px;
+    }
+}
