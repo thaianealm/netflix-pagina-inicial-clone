@@ -8,8 +8,8 @@
     }
 
     .idiomas-navbar{
-        width: 120px;
-        margin-left: 30%;
+        width: 118px;
+        margin-left: 27%;
     }
 
     .botao-entrar-navbar{
@@ -276,7 +276,7 @@
 }
 
 .idiomas-navbar{
-    margin-left: 4rem;
+    margin-left: 3rem;
 }
 
 .container-1{
@@ -341,7 +341,6 @@
     padding: 20px 18px 30px 28px;
     width: 345x;
     height: 16px;
-    height: 530px;
 }
 
 .go-2{
@@ -393,16 +392,9 @@ footer{
 
 .question{
     padding: 20px 18px 30px 28px;
-    width: 310px;
-    height: 10px;
-    font-size: 18px;
-}
-
-.question{
-    padding: 20px 18px 30px 28px;
     width: 270px;
     height: 10px;
-    font-size: 20px;
+    font-size: 15px;
 }
 
 }
