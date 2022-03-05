@@ -274,12 +274,12 @@
 
 .imagem-1 img{
     margin-left: -56px;
-    width: 380px;
+    width: 355px;
 }
 
 .video-1{
-    top: 59px;
-    left: -5px;
+    top: 55px;
+    left: -7px;
     width: 275px;
 }
 
@@ -299,10 +299,14 @@
     width: 250px;
 }
 
+.texto-4{
+    margin-left: 0%;
+}    
+
 .imagem-4 img{
     margin-top: 15%;
     margin-left: 0;
-    width: 367px;
+    width: 355px;
 }
 
 .question{
@@ -336,6 +340,14 @@ footer{
 .footer-p{
     margin-top: 5%;
 }
+
+.idiomas-footer{
+    margin-left: 30px;
+}
+
+.footer-p{
+    margin-left: 30px;
+}
 }
 
 @media screen and (max-width:400px){
@@ -349,4 +361,5 @@ footer{
     height: 10px;
     font-size: 18px;
 }
+
 }
