@@ -271,13 +271,17 @@
 
 /*Tamanho para smartphones*/
 @media screen and (max-width:500px) {
+.main h3{
+        font-weight: 400;
+}
+
 .idiomas-navbar{
     margin-left: 4rem;
 }
 
 .imagem-1 img{
-    margin-left: auto;
-    width: 355px;
+    margin-left: -40px;
+    width: 350px;
 }
 
 .video-1{
@@ -292,7 +296,7 @@
 }
 
 .imagem-3 img{
-    margin-left: auto;
+    margin-left: -40px;
     width: 350px;
 }
 
@@ -314,13 +318,17 @@
 
 .question{
     padding: 20px 18px 30px 28px;
-    width: 300px;
+    width: 330px;
     height: 10px;
-    font-size: 18px;
+    font-size: 17px;
 }
 
 footer{
     height: 600px;
+}
+
+.footer-duvidas{
+    margin: 50px 20px 20px 5px;
 }
 
 .coluna-1{
