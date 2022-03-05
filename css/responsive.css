@@ -357,6 +357,7 @@ footer{
 }
 
 .coluna-1{
+    margin-left: 2%;
     width: 180px;
 }
 
@@ -365,7 +366,7 @@ footer{
 }
 
 .coluna-3{
-    margin-left: -30px;
+    margin-left: -18px;
     width: 150px;
 }
 
@@ -373,17 +374,19 @@ footer{
     width: 180px;
 }
 
-.footer-p{
-    margin-top: 5%;
+.footer-duvidas{
+    margin-left: 5%;
 }
 
 .idiomas-footer{
-    margin-left: 6px;
+    margin-left: 5%;
 }
 
 .footer-p{
-    margin-left: 6px;
+    margin-top: 5%;
+    margin-left: 5%;
 }
+
 }
 
 @media screen and (max-width:400px){
