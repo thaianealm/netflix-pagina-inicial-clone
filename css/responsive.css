@@ -285,12 +285,12 @@
 
 .imagem-2 img{
     margin-left: -7px;
-    width: 360px;
+    width: 330px;
 }
 
 .imagem-3 img{
     margin-left: -87px;
-    width: 405px;
+    width: 350px;
 }
 
 .video-3{
@@ -306,12 +306,12 @@
 .imagem-4 img{
     margin-top: 15%;
     margin-left: 0;
-    width: 355px;
+    width: 330px;
 }
 
 .question{
     padding: 20px 18px 30px 28px;
-    width: 320px;
+    width: 290px;
     height: 10px;
     font-size: 20px;
 }
@@ -360,6 +360,13 @@ footer{
     width: 310px;
     height: 10px;
     font-size: 18px;
+}
+
+.question{
+    padding: 20px 18px 30px 28px;
+    width: 270px;
+    height: 10px;
+    font-size: 20px;
 }
 
 }
