@@ -31,7 +31,7 @@
     }
 
     .main-child h2{
-        font-weight: 400;
+        font-weight: 600;
         font-size: 20px;
     }
 
@@ -275,7 +275,7 @@
 }
 
 .imagem-1 img{
-    margin-left: -52px;
+    margin-left: auto;
     width: 355px;
 }
 
