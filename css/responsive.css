@@ -315,12 +315,12 @@
 
 .video-3{
     top: 56px;
-    left: 50px;
+    left: 5px;
     width: 200px;
 }
 
 .container-4{
-    height: 450px;
+    height: 460px;
 }
 
 .texto-4{
@@ -336,9 +336,13 @@
 .question{
     padding: 20px 18px 30px 28px;
     width: 340px;
-    height: 10px;
-    font-size: 14px;
+    height: 13px;
+    font-size: 13px;
     height: 600px;
+}
+
+.go-2{
+    margin-top: 30px;
 }
 
 footer{
