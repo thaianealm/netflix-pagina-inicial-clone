@@ -297,13 +297,13 @@
 
 .imagem-3 img{
     margin-left: -40px;
-    width: 350px;
+    width: 330px;
 }
 
 .video-3{
     top: 56px;
     left: auto;
-    width: 250px;
+    width: 230px;
 }
 
 .texto-4{
@@ -318,9 +318,10 @@
 
 .question{
     padding: 20px 18px 30px 28px;
-    width: 330px;
+    width: 340px;
     height: 10px;
-    font-size: 17px;
+    font-size: 15px;
+    height: 700px;
 }
 
 footer{
