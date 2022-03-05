@@ -31,11 +31,12 @@
     }
 
     .main-child h2{
-        font-weight: 600;
+        font-weight: 500;
         font-size: 20px;
     }
 
     .main-child h3{
+        font-weight: 600;
         font-size: 18px;
     }
 
@@ -281,7 +282,7 @@
 
 .video-1{
     top: 55px;
-    left: -7px;
+    left: auto;
     width: 275px;
 }
 
@@ -291,13 +292,13 @@
 }
 
 .imagem-3 img{
-    margin-left: -80px;
+    margin-left: auto;
     width: 350px;
 }
 
 .video-3{
     top: 56px;
-    left: -10px;
+    left: auto;
     width: 250px;
 }
 
@@ -313,7 +314,7 @@
 
 .question{
     padding: 20px 18px 30px 28px;
-    width: 298px;
+    width: 300px;
     height: 10px;
     font-size: 18px;
 }
