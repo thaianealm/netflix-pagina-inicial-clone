@@ -281,7 +281,7 @@
 
 .container-1{
     flex: 100%;
-    height: 426px;
+    height: 427px;
 }
 
 .imagem-1 img{
@@ -296,7 +296,7 @@
 }
 
 .container-2{
-    height: 426px;
+    height: 427px;
 }
 
 .imagem-2 img{
@@ -305,7 +305,7 @@
 }
 
 .container-3{
-    height: 426px;
+    height: 427px;
 }
 
 .imagem-3 img{
@@ -315,12 +315,12 @@
 
 .video-3{
     top: 56px;
-    left: auto;
+    left: 50px;
     width: 200px;
 }
 
 .container-4{
-    height: 426px;
+    height: 430px;
 }
 
 .texto-4{
