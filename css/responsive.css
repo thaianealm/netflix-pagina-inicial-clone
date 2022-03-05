@@ -279,6 +279,10 @@
     margin-left: 4rem;
 }
 
+.container-1{
+    height: 400px;
+}
+
 .imagem-1 img{
     margin-left: -40px;
     width: 350px;
@@ -287,7 +291,7 @@
 .video-1{
     top: 55px;
     left: auto;
-    width: 275px;
+    width: 271px;
 }
 
 .imagem-2 img{
@@ -296,14 +300,14 @@
 }
 
 .imagem-3 img{
-    margin-left: -40px;
+    margin-left: -35px;
     width: 330px;
 }
 
 .video-3{
     top: 56px;
     left: auto;
-    width: 230px;
+    width: 200px;
 }
 
 .texto-4{
@@ -318,10 +322,10 @@
 
 .question{
     padding: 20px 18px 30px 28px;
-    width: 340px;
+    width: 350px;
     height: 10px;
     font-size: 15px;
-    height: 700px;
+    height: 600px;
 }
 
 footer{
