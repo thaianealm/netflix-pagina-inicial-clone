@@ -280,7 +280,8 @@
 }
 
 .container-1{
-    height: 420px;
+    flex: 100%;
+    height: 425px;
 }
 
 .imagem-1 img{
