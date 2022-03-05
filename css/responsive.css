@@ -309,7 +309,7 @@
 }
 
 .imagem-3 img{
-    margin-left: -50px;
+    margin-left: -60px;
     width: 330px;
 }
 
@@ -320,7 +320,7 @@
 }
 
 .container-4{
-    height: 460px;
+    height: 480px;
 }
 
 .texto-4{
@@ -334,15 +334,18 @@
 }
 
 .question{
+    font-size: 13px;
+}
+
+.question{
     padding: 20px 18px 30px 28px;
     width: 340px;
     height: 13px;
-    font-size: 13px;
     height: 600px;
 }
 
 .go-2{
-    margin-top: 30px;
+    margin-top: 50px;
 }
 
 footer{
